@@ -2,4 +2,4 @@
 Repositório criado para o Desafio
 
 ## Links Úteis
-[Sintaxe Básica Markdwn](https://www.markdownguide.org/basic-syntax/)
+[Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
